@@ -117,6 +117,8 @@ document.getElementById('showPassword').addEventListener('change', function() {
 });
 </div>
 
+![image](https://github.com/user-attachments/assets/695f082d-0149-4143-87ce-a825d3632e25)
+
 ### HTML file for Login
 <div>
     <!DOCTYPE html>
@@ -253,6 +255,10 @@ button:hover {
     100% { transform: translateX(0); }
 }
 </div>
+
+![image](https://github.com/user-attachments/assets/084564aa-a45c-445a-9554-6d0f7e116d2c)
+
+![image](https://github.com/user-attachments/assets/232d8558-dd8c-4175-afb5-bf3abb185cc1)
 
 Note- To View the data of the another project we'll ahve to run another server with different port value(eg- 4000) in another teminal.
 
